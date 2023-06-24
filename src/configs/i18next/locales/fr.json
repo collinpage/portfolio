@@ -1,5 +1,11 @@
 {
   "home": {
-    "title": "Accueil"
+    "title": "Accueil",
+    "menu": {
+      "about": "À Propos",
+      "work": "Réalisations",
+      "skills": "Compétences"
+    },
+    "presentation": "Bonjour, mon nom est"
   }
 }
